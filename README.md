@@ -41,5 +41,5 @@ One day, we hope to digitize his collections by imaging each card and attaching 
 
 
 
---
+---
 *Note: I do not wish or want to infringe on the copyrights owned by Magic the Gathering
