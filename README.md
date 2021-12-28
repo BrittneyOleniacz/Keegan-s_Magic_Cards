@@ -1,7 +1,7 @@
 # Keegan-s_card_collections
 
 ## Background
-My nerdy younger brother collects Magic, The Gathering Cards. He talks about them incessantly. As hard as I try to focus and listen, I quickly get bored and tune out. 
+My nerdy younger brother, Keegan, collects Magic the Gathering Cards. He talks about them incessantly. As hard as I try to focus and listen, I quickly get bored and tune out. 
 In effort to show him I care about his interests, while not being particularly interested in Magic Cards myself, I offered to database his collections. My hope is that this projects brings us closer to understanding each other and how we approach things differently. It's a win-win-win situation. He gets his collection cataloged and databased. I get valuable practice working on data assembly, cleaning, building databases, web scraping, HTML, and JavaScript. We get quality time together. Also, I do believe this effort puts me in running for best sister ever....forever. 
 
 ## Methods
